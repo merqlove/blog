@@ -1,0 +1,4 @@
+blog
+====
+
+My static blog
