@@ -2,5 +2,6 @@ name: "merqlove"
 baseurl: '/blog'
 markdown: redcarpet
 pygments: true
-exclude:
-  - assets/font-awesome/
+github: {{ site.github.project_title }}
+# exclude:
+#   - assets/font-awesome/
