@@ -1,4 +1,1 @@
-blog
-====
-
 My static blog
