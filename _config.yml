@@ -1,0 +1,6 @@
+name: "merqlove"
+baseurl: '/blog'
+markdown: redcarpet
+pygments: true
+exclude:
+  - assets/font-awesome/
